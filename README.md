@@ -1,4 +1,5 @@
-# Swapping-two-values
+## DATE:
+# EXP NO:1   Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -18,8 +19,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
+# To write a python program for swapping of two values
+# DEVELOPED BY: MONISH N
+# REGISTER NO: 212223240097
+```
+a=input()
+b=input()
+a,b=b,a
+print("Swapped values are:",a,b)
+```
+## OUTPUT:
+![Screenshot 2024-08-24 172338](https://github.com/user-attachments/assets/73a5ccb6-b9a1-4b5d-930f-2b39e0fd2cb9)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
