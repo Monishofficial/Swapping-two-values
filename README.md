@@ -19,9 +19,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-# To write a python program for swapping of two values
-# DEVELOPED BY: MONISH N
-# REGISTER NO: 212223240097
+### DEVELOPED BY: MONISH N
+### REGISTER NO: 212223240097
 ```
 a=input()
 b=input()
