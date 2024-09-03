@@ -22,13 +22,16 @@ End the program
 ### DEVELOPED BY: MONISH N
 ### REGISTER NO: 212223240097
 ```
-a=input()
-b=input()
-a,b=b,a
+a=int(input())
+b=int(input())
+c=a
+a=b
+b=c
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![Screenshot 2024-08-24 172338](https://github.com/user-attachments/assets/73a5ccb6-b9a1-4b5d-930f-2b39e0fd2cb9)
+![Screenshot 2024-09-03 183103](https://github.com/user-attachments/assets/a089dc94-133f-46d5-a015-84f15a5178a3)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
